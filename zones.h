@@ -4,7 +4,7 @@
 
 typedef struct {
   const char * name;
-  const char * zones;
+  const char * zone;
 } zones_t;
 
 const zones_t zones[] = {
