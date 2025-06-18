@@ -9,6 +9,10 @@ This example code will (hopefully) connect to your desired WAP.  Then, it will s
 
 It will then query ntp.org to get the local time for your location and print it each second.  That's all it does and that is simply to prove that the entire process worked.  Add your own code after that to accomplish your mission objective.
 
+As always, if you see any error or want any updates or produce any updates, please let me know.  I am always glad to talk about programming.
+
+Mikey the Midnight Coder
+
 Additional information on SmartConfig (not needed to use this example):
 https://docs.espressif.com/projects/esp-idf/en/stable/esp32/api-reference/network/esp_smartconfig.html
 https://espressif.github.io/esp32-c3-book-en/chapter_7/7.3/7.3.3.html
